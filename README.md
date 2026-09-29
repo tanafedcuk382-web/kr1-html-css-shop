@@ -29,3 +29,7 @@
 ## Текущий статус
 
 Создана базовая структура проекта.
+
+## Ссылка на опубликованный проект
+
+GitHub Pages: https://tanafedcuk382-web.github.io/kr1-html-css-shop/
